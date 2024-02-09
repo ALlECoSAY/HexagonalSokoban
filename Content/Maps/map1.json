@@ -1,0 +1,106 @@
+{
+  "height": 5,
+  "width": 5,
+  "map": [
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 1
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    },
+    {
+      "tile": 2,
+      "object": 0
+    }
+  ]
+}
